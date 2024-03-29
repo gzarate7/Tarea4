@@ -1,0 +1,94 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bubblegum-sans-regular {
+    font-family: "Bubblegum Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.averia-libre-light {
+    font-family: "Averia Libre", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.alegreya-sc-regular {
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    background-color: chocolate;
+    height: 100px;
+}
+
+.container-fluid {
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+
+.row {
+    /*background-color:blue;*/
+    margin: 5px;
+}
+
+.col {
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+
+.alegreya-sc-regular {
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.boton-volver {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    /* Eliminar subrayado de enlace */
+    border-radius: 5px;
+}
+
+.boton-volver:hover {
+    background-color: darkblue;
+    /* Cambiar el color de fondo cuando se pasa el cursor */
+}
+
+.bubblegum-sans-regular {
+    font-family: "Bubblegum Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.luxurious-roman-regular {
+    font-family: "Luxurious Roman", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

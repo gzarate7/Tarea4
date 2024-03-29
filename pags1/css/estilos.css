@@ -1,0 +1,66 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bubblegum-sans-regular {
+    font-family: "Bubblegum Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.averia-libre-light {
+    font-family: "Averia Libre", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.alegreya-sc-regular {
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.container {
+    background-color: chocolate;
+    height: 100px;
+}
+
+.container-fluid {
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+
+.row {
+    /*background-color:blue;*/
+    margin: 5px;
+}
+
+.col {
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+.alegreya-sc-regular {
+    font-family: "Alegreya SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#principal{
+    background-color: blue;
+    height: 10px;
+    width: 17px;
+}
+  
